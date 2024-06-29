@@ -1,16 +1,17 @@
 title: Shahla Liaquat
-logo:"https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/images/shahla_picture%201.png"
+logo: "https://github.com/your-username/your-repo-name/blob/main/images/your-profile-picture.png?raw=true"
 description: > 
-  Experienced Data Analyst with a strong background in statistical analysis, data visualization, and data-driven decision-making.
+  Experienced Data Analyst with a strong background in statistical analysis, data visualization, and data-driven decision making.
   <br><br>
-  Proficient in SQL, Python, and Excel, with a proven track record of delivering actionable insights and optimizing business processes.
+  Proficient in SQL, Python, and R, with a proven track record of delivering actionable insights and optimizing business processes.
   <br><br>
   <a href="https://www.linkedin.com/in/shahla-liaquat-146427215/">LinkedIn</a>
   <br><br>
-  <a href="https://github.com/Shahlaliquat">GitHub</a>
+  <a href="https://github.com/your-github-username">GitHub</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
 
