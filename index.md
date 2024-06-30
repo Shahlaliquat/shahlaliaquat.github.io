@@ -5,7 +5,7 @@
 ### Power BI 
 
 [Web Traffic Analysis](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/images/Screenshot%202024-06-30%20203055.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
