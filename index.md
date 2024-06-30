@@ -5,7 +5,7 @@
 ### Power BI 
 
 [Web Traffic Analysis](/sample_page)
-
+In the digital age, understanding how users interact with a website is crucial for improving user experience and achieving business goals. Recently, I was tasked with analyzing my website's traffic data to gain insights into user behavior, identify high-performing content, and optimize marketing strategies. Using Power BI, I created a dashboard to visualize key metrics and trends in web traffic, user engagement, and conversion tracking.
 <img src="https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/images/Screenshot%202024-06-30%20203055.png?raw=true"/>
 
 ---
