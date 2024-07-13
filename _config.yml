@@ -6,12 +6,10 @@ description: >
   Proficient in SQL, Python, and SQL, with a proven track record of delivering actionable insights and optimizing business processes.
   <br><br>
   <a href="https://www.linkedin.com/in/shahla-liaquat-146427215/">LinkedIn</a>
-  <br><br>
+  
 
 
-  remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-  - jekyll-remote-theme
+  theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
   
 
