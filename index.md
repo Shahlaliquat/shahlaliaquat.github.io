@@ -1,8 +1,8 @@
-## Portfolio
+## My Data Analytics Portfolio
 
 ---
 
-### Power BI 
+## [About Me] (/aboutme.md)
 
 [Web Traffic Analysis](/sample_page)
 
