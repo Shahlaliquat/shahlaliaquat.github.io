@@ -4,7 +4,7 @@
 
 ---
 
-## [About Me](https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/aboutme.md)
+## [About Me](/aboutme.md)
 
 
 
