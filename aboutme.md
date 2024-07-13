@@ -7,14 +7,15 @@ I successfully led a team of 9 employees, boosting productivity by 15% and maxim
 
 🌟 With 2 years of experience as a Data Analyst, I am excited to apply my skills in Advanced Excel, Power BI, SQL, and Python to new challenges. My curiosity and analytical mindset have always driven me to ask "Why," and I am confident that these qualities will continue to serve me well in the data world. I am highly motivated to explore new research opportunities and initiatives.I am eager to continue my journey in the world of Data Analytics. 
 
-📊📚My technical skills include: 
-◻️ **SQL** 
-◻️ **Excel**
-◻️ **Google Sheets**
-◻️ **Power BI**
-◻️ **Python**
-◻️ **Data Visualization**
-🌐 Visit my [𝐃𝐚𝐭𝐚 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨] (https://shahlaliquat.github.io/shahlaliaquat.github.io/)
+📊📚My technical skills include: <br>
+◻️ **SQL** <br>
+◻️ **Excel** <br>
+◻️ **Google Sheets** <br>
+◻️ **Power BI**<br>
+◻️ **Python** <br>
+◻️ **Data Visualization** <br>
+
+🌐 Visit my [𝐃𝐚𝐭𝐚 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨](https://shahlaliquat.github.io/shahlaliaquat.github.io/)
 
 My portfolio showcases projects that utilize skills like 𝐄𝐱𝐜𝐞𝐥, 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈, and 𝐒𝐐𝐋. I am continually adding new projects to enhance my 𝐬𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐚𝐥 𝐚𝐧𝐚𝐥𝐲𝐬𝐢𝐬, 𝐝𝐚𝐭𝐚 𝐯𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧, and 𝐩𝐫𝐨𝐛𝐥𝐞𝐦-𝐬𝐨𝐥𝐯𝐢𝐧𝐠 skills.
 
