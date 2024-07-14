@@ -22,3 +22,13 @@ My portfolio showcases projects that utilize skills like 𝐄𝐱𝐜𝐞𝐥, �
 💡 To prepare for my transition into data analytics, I have been studying through the Google  Data Analytics Certificate, where I have honed my skills and been consistently impressed with what I have learned. I am excited to apply these new skills to real-world problems and help businesses make data-driven decisions.
 
  🌝🌟 I am keen to connect with fellow data professionals to gain valuable insights and learn from their experiences. If you're interested in discussing my career transition or simply want to connect, please reach out. I look forward to engaging in insightful conversations!
+
+
+
+
+
+
+
+
+
+<p align="center"><a href="https://Shahlaliquat/shahlaliaquat.github.io/"><img src="images/Home logo.png?raw=true"/>
