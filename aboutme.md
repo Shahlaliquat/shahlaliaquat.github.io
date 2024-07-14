@@ -31,4 +31,4 @@ My portfolio showcases projects that utilize skills like 𝐄𝐱𝐜𝐞𝐥, �
 
 
 
-<p align="center"><a href="https://Shahlaliquat/shahlaliaquat.github.io/"><img src="images/Home logo.png?raw=true"/>
+<p align="center"><a href="https://Shahlaliquat.github.io/shahlaliaquat.github.io/"><img src="images/Home logo.png?raw=true"/>
