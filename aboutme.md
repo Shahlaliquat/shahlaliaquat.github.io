@@ -1,7 +1,7 @@
- # About Me<br>
+ ## About Me<br>
 👋🏻 Hi, I'm Shahla Liaquat! I am a dedicated Data Analyst Professional passionate about data and committed to advancing in the field of Data Analytics. Connect with me to learn more about my data journey. 
 
-💡✨ With a degree in BS Physics and a background in mathematics and Statistics, I possess strong analytical, critical thinking, and problem-solving skills. I have a proven history of analyzing sales data, tracking market trends, and leveraging insights to drive results. My strong communication skills have facilitated effective supplier relationships, identified growth opportunities, managed inventory, and led to a 20% increase in sales through strategic marketing initiatives.
+💡✨ With a degree in BS Physics and a  mathematics and Statistics background, I possess strong analytical, critical thinking, and problem-solving skills. I have a proven history of analyzing sales data, tracking market trends, and leveraging insights to drive results. My strong communication skills have facilitated effective supplier relationships, identified growth opportunities, managed inventory, and led to a 20% increase in sales through strategic marketing initiatives.
 
 I successfully led a team of 9 employees, boosting productivity by 15% and maximizing ROI for accounts. My expertise extends to major platforms like Amazon, Walmart, Etsy, and eBay, where I consistently delivered exceptional customer service to drive revenue growth.
 
