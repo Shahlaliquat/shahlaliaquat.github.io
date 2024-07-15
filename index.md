@@ -14,11 +14,11 @@
 #### [Car Performance Analysis](/sample_page)
 
 Cars play a crucial role in our daily lives, and their performance can greatly affect our choices as consumers. Understanding how factors like horsepower, fuel efficiency, and acceleration vary among car models from different regions can help us make better decisions. This project aims to provide clear insights into these performance metrics, helping consumers choose the right car, aiding manufacturers in improving their designs, and assisting marketers in targeting their audience more effectively.
-<img src="images/Car performnance.png"?raw=true"/>
+<img src="https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/images/Car%20performnance.png"?raw=true"/>
 
 ---
 #### [E commerce Sales Analysis](/sample_page)
-<img src="images/E commerce sales.png"?raw=true"/>
+<img src="https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/images/E%20commerce%20sales.png"?raw=true"/>
 
 ---
 #### [Analyzing Student Mental Health in SQL](/sample_page)
