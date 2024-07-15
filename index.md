@@ -22,7 +22,7 @@ Cars play a crucial role in our daily lives, and their performance can greatly a
 
 ---
 #### [Analyzing Student Mental Health in SQL](https://github.com/Shahlaliquat/Analyzing-students-mental-health-in-SQL)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 #### [Employee Attrition & Performance: Statistical Analysis of HR Data with Python](https://github.com/Shahlaliquat/IBM-HR-Employee-Attrition-and-Performance)
