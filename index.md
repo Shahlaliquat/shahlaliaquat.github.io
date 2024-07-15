@@ -22,10 +22,13 @@ Cars play a crucial role in our daily lives, and their performance can greatly a
 
 ---
 #### [Analyzing Student Mental Health in SQL](https://github.com/Shahlaliquat/Analyzing-students-mental-health-in-SQL)
+<img src=" https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/images/Analyzing%20Student%20Mental%20health.png?raw=true"/>
 
 
 ---
 #### [Employee Attrition & Performance: Statistical Analysis of HR Data with Python](https://github.com/Shahlaliquat/IBM-HR-Employee-Attrition-and-Performance)
+<img src = "https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/images/IBM%20HR%20Attrition%20Analysis.png?raw=true"/>
+
 
 ---
 
@@ -41,12 +44,12 @@ Cars play a crucial role in our daily lives, and their performance can greatly a
 
 
 
-### [<img src="https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/images/download%20(16).png?raw=true"/>](https://www.linkedin.com/in/shahla-liaquat-146427215/)    [LinkedIn](https://www.linkedin.com/in/shahla-liaquat-146427215/)
+### [<img src="https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/images/download%20(16).png?raw=true"/>](https://www.linkedin.com/in/shahla-liaquat-146427215/)   [LinkedIn](https://www.linkedin.com/in/shahla-liaquat-146427215/)
 
 
 
 
-### [<img src="https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/images/download%20(15).png?raw=true"/>](https://github.com/Shahlaliquat)      [GitHub](https://github.com/Shahlaliquat)
+### [<img src="https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/images/download%20(15).png?raw=true"/>](https://github.com/Shahlaliquat)   [GitHub](https://github.com/Shahlaliquat)
 
 
 
