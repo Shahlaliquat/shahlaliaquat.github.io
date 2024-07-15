@@ -11,20 +11,21 @@
 ---
 
 ### Learn About My Projects 
-#### [Web Traffic Analysis](/sample_page)
+#### [Car Performance Analysis](/sample_page)
 
-In the digital age, understanding how users interact with a website is crucial for improving user experience and achieving business goals. Recently, I was tasked with analyzing my website's traffic data to gain insights into user behavior, identify high-performing content, and optimize marketing strategies. Using Power BI, I created a dashboard to visualize key metrics and trends in web traffic, user engagement, and conversion tracking.
-<img src="https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/images/Screenshot%202024-06-30%20203055.png?raw=true"/>
+Cars play a crucial role in our daily lives, and their performance can greatly affect our choices as consumers. Understanding how factors like horsepower, fuel efficiency, and acceleration vary among car models from different regions can help us make better decisions. This project aims to provide clear insights into these performance metrics, helping consumers choose the right car, aiding manufacturers in improving their designs, and assisting marketers in targeting their audience more effectively.
+<img src="images/Car performnance.png"?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+#### [E commerce Sales Analysis](/sample_page)
+<img src="images/E commerce sales.png"?raw=true"/>
+
+---
+#### [Analyzing Student Mental Health in SQL](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
+#### [Employee Attrition & Perfomance: Statistical Analysis of HR Data with Python](/sample_page)
 
 ### Category Name 2
 
