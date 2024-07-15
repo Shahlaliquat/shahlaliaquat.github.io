@@ -27,15 +27,27 @@ Cars play a crucial role in our daily lives, and their performance can greatly a
 ---
 #### [Employee Attrition & Performance: Statistical Analysis of HR Data with Python](https://github.com/Shahlaliquat/IBM-HR-Employee-Attrition-and-Performance)
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
 ---
+
+### [<img src="https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/images/download%20(18).png?raw=true"/>](files/Madeeha Umar Resume.pdf)      [Resume](files/Madeeha Umar Resume.pdf)
+
+
+
+
+
+### [<img src="https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/images/download%20(17).png?raw=true"/>](https://app.powerbi.com/home?experience=power-bi)   [Power BI](https://app.powerbi.com/home?experience=power-bi)
+
+
+
+
+
+### [<img src="https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/images/download%20(16).png?raw=true"/>](https://www.linkedin.com/in/shahla-liaquat-146427215/)   [LinkedIn](https://www.linkedin.com/in/shahla-liaquat-146427215/)
+
+
+
+
+### [<img src="https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/images/download%20(15).png?raw=true"/>](https://github.com/Shahlaliquat)             [GitHub](https://github.com/Shahlaliquat)
+
 
 
 
