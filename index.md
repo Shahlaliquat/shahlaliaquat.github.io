@@ -11,21 +11,21 @@
 ---
 
 ### Learn About My Projects 
-#### [Car Performance Analysis](/sample_page)
+#### [Car Performance Analysis](https://github.com/Shahlaliquat/Car-Performance-Power-BI-Project)
 
 Cars play a crucial role in our daily lives, and their performance can greatly affect our choices as consumers. Understanding how factors like horsepower, fuel efficiency, and acceleration vary among car models from different regions can help us make better decisions. This project aims to provide clear insights into these performance metrics, helping consumers choose the right car, aiding manufacturers in improving their designs, and assisting marketers in targeting their audience more effectively.
 <img src="https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/images/Car%20performnance.png?raw=true"/>
 
 ---
-#### [E commerce Sales Analysis](/sample_page)
+#### [E-commerce Sales Analysis](https://github.com/Shahlaliquat/E-commerce-Power-BI-Dashboard)
 <img src="https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/images/E%20commerce%20sales.png?raw=true"/>
 
 ---
-#### [Analyzing Student Mental Health in SQL](/sample_page)
+#### [Analyzing Student Mental Health in SQL](https://github.com/Shahlaliquat/Analyzing-students-mental-health-in-SQL)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-#### [Employee Attrition & Perfomance: Statistical Analysis of HR Data with Python](/sample_page)
+#### [Employee Attrition & Performance: Statistical Analysis of HR Data with Python](https://github.com/Shahlaliquat/IBM-HR-Employee-Attrition-and-Performance)
 
 ### Category Name 2
 
