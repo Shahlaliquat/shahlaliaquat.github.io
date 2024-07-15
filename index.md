@@ -22,7 +22,7 @@ Cars play a crucial role in our daily lives, and their performance can greatly a
 
 ---
 #### [Analyzing Student Mental Health in SQL](https://github.com/Shahlaliquat/Analyzing-students-mental-health-in-SQL)
-<img src=" https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/images/Analyzing%20Student%20Mental%20health.png?raw=true"/>
+  <img  src = "https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/images/Analyzing%20Student%20Mental%20health.png?raw=true"/>
 
 
 ---
@@ -32,7 +32,7 @@ Cars play a crucial role in our daily lives, and their performance can greatly a
 
 ---
 
-### [<img src="https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/images/download%20(18).png?raw=true"/>]
+### <img src="https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/images/download%20(18).png?raw=true"/>
 
 
 
