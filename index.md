@@ -32,7 +32,7 @@ Cars play a crucial role in our daily lives, and their performance can greatly a
 
 ---
 
-### <img src="https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/images/download%20(18).png?raw=true"/>
+### <img src="https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/images/resume.jpg?raw=true"/>
 
 
 
