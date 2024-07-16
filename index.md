@@ -38,18 +38,18 @@ Cars play a crucial role in our daily lives, and their performance can greatly a
 
 
 
-### [<img src="https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/images/download%20(17).png?raw=true"/>](https://app.powerbi.com/home?experience=power-bi)   [Power BI](https://app.powerbi.com/home?experience=power-bi)
+### [<img src="https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/images/powe%20bi.jpg?raw=true"/>](https://app.powerbi.com/home?experience=power-bi)   [Power BI](https://app.powerbi.com/home?experience=power-bi)
 
 
 
 
 
-### [<img src="https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/images/download%20(16).png?raw=true"/>](https://www.linkedin.com/in/shahla-liaquat-146427215/)   [LinkedIn](https://www.linkedin.com/in/shahla-liaquat-146427215/)
+### [<img src="https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/images/Linkedin_iocn.png?raw=true"/>](https://www.linkedin.com/in/shahla-liaquat-146427215/)   [LinkedIn](https://www.linkedin.com/in/shahla-liaquat-146427215/)
 
 
 
 
-### [<img src="https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/images/download%20(15).png?raw=true"/>](https://github.com/Shahlaliquat)   [GitHub](https://github.com/Shahlaliquat)
+### [<img src="https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/images/github.jpg?raw=true"/>](https://github.com/Shahlaliquat)   [GitHub](https://github.com/Shahlaliquat)
 
 
 
