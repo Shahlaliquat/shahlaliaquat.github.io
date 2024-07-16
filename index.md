@@ -32,13 +32,13 @@ Cars play a crucial role in our daily lives, and their performance can greatly a
 
 ---
 
-### <img src="https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/images/resume_icon.jpg?raw=true"/>
+### <img src="https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/images/cv_icon.jpg?raw=true"/>
 
 
 
 
 
-### [<img src="https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/images/powe%20bi.jpg?raw=true"/>](https://app.powerbi.com/home?experience=power-bi)   [Power BI](https://app.powerbi.com/home?experience=power-bi)
+### [<img src="https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/images/powe_bi.jpg?raw=true"/>](https://app.powerbi.com/home?experience=power-bi)   [Power BI](https://app.powerbi.com/home?experience=power-bi)
 
 
 
