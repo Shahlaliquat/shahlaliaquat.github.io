@@ -1,5 +1,5 @@
 # My Data Analytics Portfolio
- <img  src = "https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/images/Shahla_liaquat_data_analyst.gif?raw=true"/>
+ <img  src = "https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/images/Shahla_Data_Analyst.gif?raw=true"/>
 
 
 
