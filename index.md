@@ -39,6 +39,12 @@ In this project, I utilized MySQL to analyze survey data from a 2018 study on th
 
 ---
 ### Certificates 
+#### [Google Data Analytics Professional](https://www.coursera.org/account/accomplishments/professional-cert/3RZT43WV575T)
+#### [Google Business Intelligence](https://www.coursera.org/account/accomplishments/professional-cert/9A2XJWWE9DTG)
+#### [DataCamp SQL](https://www.datacamp.com/statement-of-accomplishment/course/3e00c4028fedf44c122e4fce02e12c0f57448605?raw=1)
+#### [Excel Skills for Business Macquarie University](https://www.coursera.org/account/accomplishments/specialization/MX995JP9QMSW)
+
+---
 
 ### <img src="https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/images/curriculum-vitae-icons.jpg?raw=true"/>
 
