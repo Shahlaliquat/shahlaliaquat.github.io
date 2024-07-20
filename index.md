@@ -38,6 +38,8 @@ In this project, I utilized MySQL to analyze survey data from a 2018 study on th
 
 
 ---
+### Certificates 
+
 ### <img src="https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/images/curriculum-vitae-icons.jpg?raw=true"/>
 
 
