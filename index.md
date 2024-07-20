@@ -46,7 +46,7 @@ In this project, I utilized MySQL to analyze survey data from a 2018 study on th
 
 ---
 
-### <img src="https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/images/curriculum-vitae-icons.jpg?raw=true"/>
+### [<img src="https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/images/curriculum-vitae-icons.jpg?raw=true"/>](https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/pdf/Shahla_Data_Analyst_resume.pdf)   [Resume](https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/pdf/Shahla_Data_Analyst_resume.pdf)
 
 
 
