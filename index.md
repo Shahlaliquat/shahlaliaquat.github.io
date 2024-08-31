@@ -14,6 +14,7 @@
 ### Learn About My Projects 
 #### [Finance Report](https://github.com/Shahlaliquat/Finance-Report)
 This Finance Report Dashboard offers a concise overview of financial performance, featuring key metrics like income, expenses, and savings. It includes interactive charts and dynamic filters that allow users to analyze trends and compare data over time easily. 
+<img src ="https://github.com/Shahlaliquat/shahlaliaquat.github.io/blob/master/images/Finance%20Report.png?raw=true"/>
 
 #### [Car Performance Analysis](https://github.com/Shahlaliquat/Car-Performance-Power-BI-Project)
 Cars play a crucial role in our daily lives, and their performance can greatly affect our choices as consumers. Understanding how factors like horsepower, fuel efficiency, and acceleration vary among car models from different regions can help us make better decisions. This project aims to provide clear insights into these performance metrics, helping consumers choose the right car, aiding manufacturers in improving their designs, and assisting marketers in targeting their audience more effectively.
